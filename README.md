@@ -1,6 +1,8 @@
-# Babel Handbook
 
-A guided handbook on how to use Babel and how to create plugins for Babel.
+<p align="center">
+ <img alt="Project logo" height="80" src="./static/add-readme.png">
+</p>
+<h1 align="center">Babel Handbook</h1>
 
 **Translations**
 
@@ -15,6 +17,7 @@ A guided handbook on how to use Babel and how to create plugins for Babel.
 - [Español](https://github.com/thejameskyle/babel-handbook/tree/master/translations/es-ES/README.md)
 - [فارسی](https://github.com/thejameskyle/babel-handbook/tree/master/translations/fa-IR/README.md)
 - [Français](https://github.com/thejameskyle/babel-handbook/tree/master/translations/fr/README.md)
+- [Hindi](https://github.com/iamrahulmahato/babel-handbook/blob/master/translations/hi/README.md)
 - [עִברִית](https://github.com/thejameskyle/babel-handbotree/master/ok/translations/he/README.md)
 - [Italiano](https://github.com/thejameskyle/babel-handbook/tree/master/translations/it/README.md)
 - [日本語](https://github.com/thejameskyle/babel-handbook/tree/master/translations/ja/README.md)
