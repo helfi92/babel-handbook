@@ -1,6 +1,8 @@
-# Babel Handbook
 
-A guided handbook on how to use Babel and how to create plugins for Babel.
+<p align="center">
+ <img alt="Project logo" height="80" src="./static/add-readme.png">
+</p>
+<h1 align="center">Babel Handbook</h1>
 
 **Translations**
 
